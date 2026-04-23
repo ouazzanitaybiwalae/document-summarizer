@@ -56,7 +56,7 @@ document-summarizer/
 ## Installation
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/ouazzanitaybiwalae/document-summarizer.git
 cd document-summarizer
 pip install -r requirements.txt
 ```
